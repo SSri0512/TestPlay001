@@ -1,3 +1,8 @@
 added a test003 file in Branch.
 User2:Removing Line2
+<<<<<<< HEAD
 User2:Removing Line3
+=======
+User1:Adding the line3.
+
+>>>>>>> edcb07a5fce9adfeea2cda604f5bd2290ab49531
